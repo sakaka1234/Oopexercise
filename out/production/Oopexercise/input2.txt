@@ -1,0 +1,5 @@
+Welcome to Java programming
+Java is a powerful language
+This file is for testing
+We love coding in Java
+Search for Java here too
